@@ -46,6 +46,6 @@ Found a bug with upstream Slate? Go ahead and [submit an issue](https://github.c
 Contributors
 --------------------
 
-Slate was built by [mherman22](https://github.com/mherman22).
+The KTMInv docs were built by [mherman22](https://github.com/mherman22).
 
 Also, thanks to [Sauce Labs](http://saucelabs.com) and [slate](https://github.com/slatedocs/slate) for sponsoring the development of the responsive styles.
