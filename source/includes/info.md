@@ -33,6 +33,10 @@ To be able to provide your contribution to the KTMInv rest api, please do the fo
 
 - All data is sent and received as JSON.
 
+## Test endpoints
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3ae8d7d63faf8975acb4)
+
 ## Getting Started with examples
 
 ### 1. Instructions for all the examples
