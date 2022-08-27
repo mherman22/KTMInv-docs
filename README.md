@@ -1,4 +1,5 @@
-                 KTMInv Rest Api Documentation
+KTMInv Rest Api Documentation [![Build](https://github.com/mherman22/KTMInv-docs/actions/workflows/build.yml/badge.svg)](https://github.com/mherman22/KTMInv-docs/actions/workflows/build.yml)
+-----------------------------
 
 Features
 ------------
